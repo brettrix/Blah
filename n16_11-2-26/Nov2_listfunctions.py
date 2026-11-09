@@ -59,7 +59,7 @@ some_rando_list.sort()
 
 print(some_rando_list)
 
-
+#Dictionary
 student_info = {
     "name": "Zendaya",
     "age": 30,
